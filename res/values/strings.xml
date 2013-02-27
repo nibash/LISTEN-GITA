@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LISTEN GITA</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="play_button">PLAY</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="play_gita">LISTEN GITA</string>
+    <string name="id_name">NIBASH CHAKRABORTY</string>
+    <string name="name_id">NIBASH CHAKRABORTY</string>
+    <string name="info_id">NIBASH CHAKRABORTY   Roma, Italy.   Mob- +39 3894760566, email- nibash_12@yahoo.com nibash@icloud.com</string>
+    <string name="chapter_1">Chapter1 - The Yog of Irresolution and Grief</string>
+    <string name="chapter_2">Chapter2 - Curiosuty About Action</string>
+    <string name="chapter_3">Chapter3 - Urging the Enemy\'s Destruction</string>
+    <string name="chapter_4">Chapter4 - Education of the Deed of Yagya</string>
+    <string name="chapter_5">Chapter5 - The Supreme God-Enjoyer of Yagya</string>
+    <string name="chapter_6">Chapter6 - The Yog of Meditation</string>
+    <string name="chapter_7">Chapter7 - Immaculate Knowledge</string>
+    <string name="chapter_8">Chapter8 - Yog with The Imperishable God</string>
+    <string name="chapter_9">Chapter9 - Stirring To Spiritual Enlightenment</string>
+    <string name="chapter_10">Chapter10 - An Account Of Gods Glory</string>
+    <string name="chapter_11">Chapter11 - Revelation Of The Omnipresent</string>
+    <string name="chapter_12">Chapter12 - The Yog Of Devotion</string>
+    <string name="chapter_13">Chapter13 - The Sphere Of Action And its Knower</string>
+    <string name="chapter_14">Chapter14 - Division Of The Three Properties</string>
+    <string name="chapter_15">Chapter15 - The Yog Of The Supreme Being</string>
+    <string name="chapter_16">Chapter16 - The Yog Of Telling The Divine From The Demoniacal</string>
+    <string name="chapter_17">Chapter17 - The Yog Of Threefold Faith</string>
+    <string name="chapter_18">Chapter18 - The Yog Of Renuciation</string>
+    <string name="first_last">NIBASH CHAKRABORTY</string>
+    <string name="email_id">nibash_12@yahoo.com nibash@icloud.com</string>
+    <string name="yahoo_id">nibash_12@yahoo.com</string>
+    <string name="icloud_id">nibash@icloud.com</string>
+    <string name="mob_id">+39 3894760566</string>
+    <string name="add_id">ROMA, ITALY.                   COMILLA, BANHLADESH.</string>
+    <string name="ad_id">Roma, ITALY.   Comilla, BANGLADESH.</string>
+    <string name="web_id">www.krishnakotha.blogspot.it</string>
+    <string name="hare_id">HARE KRISHNA</string>
+
+</resources>
